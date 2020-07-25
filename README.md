@@ -21,24 +21,24 @@ Building salvage (just in middle?):
 - baskets
 
 Towers:
-- crossbow (left*, right*, back, front)
+- crossbow (*left*, *right*, back, front)
 - trebuchet (left, right, back, front)
 - laser
 
 Character:
-- walk/stand (left, right, back*, front*)
+- walk/stand (left, right, *back*, *front*)
 - pick up
 - stack (or same as pick up)
 - build
 
 Enemies:
-- cockroach (left, right, back, front)
+- cockroach (*left*, *right*, *back*, *front*)
 - ants (left, right, back, front)
 - rat (left, right, back, front)
 - {spiders (left, right, back, front; webs on towers)}
 
 Room:
-- floor (tile*, carpet*)
+- floor (*tile*, *carpet*)
 - walls (room edges, clothing racks, shelves)
 
 Misc:
