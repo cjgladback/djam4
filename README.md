@@ -9,8 +9,8 @@ Game/programming repository: https://github.com/MrcSnm/DJAM4-Thrifting-Store
 TODO:
 
 Stackable salvage (in corner as well as in center?):
-- sock (*to stack*, to find, beanbag)
-- silverware (*to stack*, to find, speared into ground)
+- sock (*to stack*, to find, *beanbag*)
+- silverware (*to stack*, to find, *speared into ground*)
 - t-shirt (heavy net)
 - wooden plaques (splinters)
 
@@ -45,5 +45,5 @@ Misc:
 - pigpen-esque dust storm for building action
 - splats and booms
 - {ui tiles? ask if needed}
-- inventory icons (*sock*, *silverware*, shirt, *hanger*, *yarn*, basket)
+- inventory icons (*sock*, *silverware*, shirt, *hanger*, *yarn*, *basket*)
 - *inventory background*
