@@ -22,7 +22,7 @@ Building salvage (just in middle?):
 
 Towers:
 - crossbow (*left*, *right*, back, front)
-- trebuchet (left, right, back, front)
+- trebuchet (*left*, right, back, front)
 - laser
 
 Character:
@@ -32,7 +32,7 @@ Character:
 - build
 
 Enemies:
-- cockroach (*left*, *right*, *back*, *front*)
+- *cockroach* (*left*, *right*, *back*, *front*)
 - ants (left, right, back, front)
 - rat (left, right, back, front)
 - {spiders (left, right, back, front; webs on towers)}
@@ -46,3 +46,4 @@ Misc:
 - splats and booms
 - {ui tiles? ask if needed}
 - inventory icons (*sock*, *silverware*, shirt, *hanger*, *yarn*, basket)
+- *inventory background*
